@@ -9,3 +9,5 @@ Future version planned to have a nearly unbeatable Shannon level.
 Or invite a friend and play over SMS with a URL (in the style of Game Pigeon).
 
 Runs stand alone on your phone. Local first, single HTML file.
+
+As with everything on GitHub, play at your own risk. Not certified for any particular purpose.
